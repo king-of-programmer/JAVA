@@ -5,6 +5,11 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="output" path="bin"/>
+=======
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="output" path=""/>
+>>>>>>> refs/remotes/origin/master
 </classpath>
